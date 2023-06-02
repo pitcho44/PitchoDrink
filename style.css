@@ -1523,8 +1523,17 @@ section {
 .category-img img {
     display: block;
     margin-bottom: 15px;
-}
+    height: 250px;
+    width: 400px;
 
+}
+.category-midleton{
+    display: block;
+    margin-bottom: 15px;
+    height: 250px;
+    width: 600px;
+
+}
 .category-img .cat-link {
     text-align: center;
 }
